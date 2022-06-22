@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "cc21cc51c25a0a57",
+    "type": "split",
+    "children": [
+      {
+        "id": "31028a77e0e74364",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tasks.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7ae26bbe210613a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a971cee6e1bbbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076ba8e1d813fd07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7fc74f321d24d6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26951ea45bc91ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d7cc26cd37cb21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cfc66a115e44d40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "31028a77e0e74364",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "Animal/Log.md",
+    "Untitled.md"
+  ]
+}
